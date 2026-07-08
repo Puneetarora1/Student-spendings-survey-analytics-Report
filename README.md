@@ -10,6 +10,7 @@ Built an interactive Power BI dashboard to analyze student spending behavior acr
 - **DAX (Data Analysis Expressions)** (Calculated Measures)
 - **Data Modeling**
 - **Interactive Visualizations** - Bar Chart, Pie Chart, Scatter Plot, Matrix, Table
+- **Power BI Service** - Publish, Data Refresh, Created Dashboard
 
 - ## 📊 Key Insights
 - **Suburb Stores** generated the highest sales (**$266K**), while **Urban** and **Rural Stores** each achieved approximately **70%** of Suburb Store sales.
