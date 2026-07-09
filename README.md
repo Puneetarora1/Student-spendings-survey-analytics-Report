@@ -1,7 +1,7 @@
 # Student Spending Survey Analysis | Power BI Dashboard
 
 ## 📌 Short Description
-Built an interactive Power BI dashboard to analyze student spending behavior across age groups, store settings, locations, and product categories. The dashboard uncovers purchasing trends, identifies high-performing locations, and provides actionable insights for data-driven decision-making.
+Developed an interactive power BI dashboard to analyze student spending patterns. Implemented various plots such as Pie chart, Funnel chart, Treemap, Scatter plot, Sand dance plot for interactive visualization. Identified students spending trends across all age groups, location and product categories. Published the report to Power BI service, designed master dashboard and schedule refresh data every 4 hours using data gateway.
 
 ## 🛠️ Tech Stack
 - **Power BI Desktop**
@@ -19,4 +19,7 @@ Built an interactive Power BI dashboard to analyze student spending behavior acr
 - Within **Suburb Stores**, **Los Angeles** and **Seattle** together contributed nearly **62%** of total sales.
 - Students **below 13 years** spent more on **Video Games** than **Outdoor Sports Kits**, whereas students aged **13–18 years** showed the opposite spending pattern.
 - Across all age groups, students spent more on **Academic Books** than on **Non-Academic Books**.
+
+- ## 📷 Project Snapshot
+- ![Customer Segments](https://github.com/Puneetarora1/Student-spendings-survey-analytics-Report/blob/main/Dashboard%20Snapshot.png)
 ```
