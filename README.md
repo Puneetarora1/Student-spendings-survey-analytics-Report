@@ -13,7 +13,7 @@ Built an interactive Power BI dashboard to analyze student spending behavior acr
 - **Power BI Service** - Publish, Data Refresh, Created Dashboard
 
 - ## 📊 Key Insights
-- **Gadgets** is the highest sales generating category and **Toys** in least sales generating category.
+- **Gadgets** is the highest sales generating category and **Toys** is least sales generating category.
 - **Suburb Stores** generated the highest sales (**$266K**), while **Urban** and **Rural Stores** each achieved approximately **70%** of Suburb Store sales.
 - **Boston** recorded the **lowest sales**, totaling **$146K**.
 - Within **Suburb Stores**, **Los Angeles** and **Seattle** together contributed nearly **62%** of total sales.
